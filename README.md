@@ -1,6 +1,7 @@
 # Serverless Website with AWS Lambda / API Gateway and static files on S3
 ## prepare
-Input your bucket / service name.
+1. Make your S3 bucket (for publishing static files).
+2. Input your bucket / service name.
 ###deploy.command
     BUCKET_NAME="{input your bucket name}";
 
