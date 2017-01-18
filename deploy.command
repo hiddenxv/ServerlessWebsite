@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BUCKET_NAME="sls-website-sample";
+BUCKET_NAME="{input your bucket name}";
 PUBLIC_POLICY="public.json";
 
 printf "enable Static Website Hosting.\n"
