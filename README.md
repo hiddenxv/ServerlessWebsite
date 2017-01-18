@@ -1,4 +1,4 @@
-# Sarverless Website with AWS Lambda / API Gateway and static files on S3
+# Serverless Website with AWS Lambda / API Gateway and static files on S3
 ## prepare
 Input your bucket / service name.
 ###deploy.command
