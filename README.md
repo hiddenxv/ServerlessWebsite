@@ -2,6 +2,7 @@
 ## prepare
 1. Make your S3 bucket (for publishing static files).
 2. Input your bucket / service name.
+
 ###deploy.command
     BUCKET_NAME="{input your bucket name}";
 
