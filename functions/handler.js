@@ -4,7 +4,7 @@
 module.exports.hello = ( event, context, cb ) => 
 {
   var renderedPage = 'hello serverless';
-  cb( null, renderedPage );
+  cb( null, renderContent( renderedPage ) );
 };
 
 // You can add more handlers here, and reference them in serverless.yml
